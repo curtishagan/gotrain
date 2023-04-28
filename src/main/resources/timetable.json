@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "line": "Lakeshore",
+    "departure": 800,
+    "arrival": 900
+  },
+  {
+    "id": 2,
+    "line": "Lakeshore",
+    "departure": 1000,
+    "arrival": 1100
+  },
+  {
+    "id": 3,
+    "line": "Lakeshore",
+    "departure": 1200,
+    "arrival": 1300
+  },
+  {
+    "id": 4,
+    "line": "Lakeshore",
+    "departure": 1400,
+    "arrival": 1500
+  },
+  {
+    "id": 5,
+    "line": "Lakeshore",
+    "departure": 1600,
+    "arrival": 1700
+  },
+  {
+    "id": 6,
+    "line": "Barrie",
+    "departure": 730,
+    "arrival": 930
+  },
+  {
+    "id": 7,
+    "line": "Barrie",
+    "departure": 1030,
+    "arrival": 1230
+  },
+  {
+    "id": 8,
+    "line": "Barrie",
+    "departure": 1230,
+    "arrival": 1430
+  },
+  {
+    "id": 9,
+    "line": "Barrie",
+    "departure": 1430,
+    "arrival": 1630
+  },
+  {
+    "id": 10,
+    "line": "Barrie",
+    "departure": 1630,
+    "arrival": 1830
+  },
+  {
+    "id": 11,
+    "line": "Barrie",
+    "departure": 1830,
+    "arrival": 2030
+  },
+  {
+    "id": 12,
+    "line": "Barrie",
+    "departure": 2030,
+    "arrival": 2230
+  },
+  {
+    "id": 13,
+    "line": "Kitchener",
+    "departure": 815,
+    "arrival": 900
+  },
+  {
+    "id": 14,
+    "line": "Kitchener",
+    "departure": 1015,
+    "arrival": 1100
+  },
+  {
+    "id": 15,
+    "line": "Kitchener",
+    "departure": 1215,
+    "arrival": 1300
+  },
+  {
+    "id": 16,
+    "line": "Kitchener",
+    "departure": 1415,
+    "arrival": 1500
+  },
+  {
+    "id": 17,
+    "line": "Kitchener",
+    "departure": 1615,
+    "arrival": 1700
+  }
+]
